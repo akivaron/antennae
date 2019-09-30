@@ -6,7 +6,7 @@ module.exports = {
   fixedHeader: true, // sticky header
   autoHideHeader: false, // auto hide header
   fixSiderbar: true, // sticky siderbar
-  baseUrl: 'https://digitalcamp.id/',
-  hostApi: 'https://digitalcamp.id:82/',
-  baseApi: 'https://digitalcamp.id:81/index.php/api/',
+  baseUrl: 'https://antennae-web/',
+  hostApi: 'https://antennae-api/',
+  baseApi: 'https://antennae-api/index.php/api/',
 };
